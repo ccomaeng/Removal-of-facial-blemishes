@@ -1,0 +1,5 @@
+{
+  "name": "DermaFix AI",
+  "description": "Professional-grade AI facial retouching tool. Removes blemishes while preserving natural skin texture using Gemini 2.5 Flash Image models.",
+  "requestFramePermissions": []
+}
